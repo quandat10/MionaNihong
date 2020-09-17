@@ -1,0 +1,4 @@
+#Mon Aug 24 17:11:23 ICT 2020
+base.0=/Users/trandat/data/code/flutterApp/minnav2/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

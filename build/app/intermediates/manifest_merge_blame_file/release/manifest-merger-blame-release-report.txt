@@ -1,0 +1,267 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.minnav2"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[:firebase_admob] /Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+11-->[:firebase_admob] /Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/library_manifest/release/AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:24:5-79
+12-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:24:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:25:5-68
+13-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:25:22-65
+14    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+14-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:26:5-110
+14-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:26:22-107
+15    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+15-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:26:5-82
+15-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:26:22-79
+16
+17    <permission
+17-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:28:5-30:47
+18        android:name="com.example.minnav2.permission.C2D_MESSAGE"
+18-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:29:9-63
+19        android:protectionLevel="signature" />
+19-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:30:9-44
+20
+21    <uses-permission android:name="com.example.minnav2.permission.C2D_MESSAGE" />
+21-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:32:5-79
+21-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:32:22-76
+22    <!--
+23 io.flutter.app.FlutterApplication is an android.app.Application that
+24         calls FlutterMain.startInitialization(this); in its onCreate method.
+25         In most cases you can leave this as-is, but you if you want to provide
+26         additional functionality it is fine to subclass or reimplement
+27         FlutterApplication and put your custom class here.
+28    -->
+29    <application
+29-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:9:5-55:19
+30        android:name="io.flutter.app.FlutterApplication"
+30-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:10:9-57
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:24:18-86
+32        android:icon="@mipmap/ic_launcher"
+32-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:13:9-43
+33        android:label="minnav2"
+33-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:11:9-32
+34        android:usesCleartextTraffic="true" >
+34-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:12:9-44
+35        <meta-data
+35-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:14:9-16:69
+36            android:name="com.google.android.gms.ads.APPLICATION_ID"
+36-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:15:13-69
+37            android:value="ca-app-pub-1142961620231228~1043671169" />
+37-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:16:13-67
+38        <meta-data
+38-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:17:9-19:35
+39            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+39-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:18:13-69
+40            android:value="true" />
+40-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:19:13-33
+41
+42        <activity
+42-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:20:9-48:20
+43            android:name="com.example.minnav2.MainActivity"
+43-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:21:13-41
+44            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+44-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:24:13-163
+45            android:hardwareAccelerated="true"
+45-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:25:13-47
+46            android:launchMode="singleTop"
+46-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:22:13-43
+47            android:theme="@style/LaunchTheme"
+47-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:23:13-47
+48            android:windowSoftInputMode="adjustResize" >
+48-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:26:13-55
+49
+50            <!--
+51                 Specifies an Android theme to apply to this Activity as soon as
+52                 the Android process has started. This theme is visible to the user
+53                 while the Flutter UI initializes. After that, this theme continues
+54                 to determine the Window background behind the Flutter UI.
+55            -->
+56            <meta-data
+56-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:31:13-34:17
+57                android:name="io.flutter.embedding.android.NormalTheme"
+57-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:32:15-70
+58                android:resource="@style/NormalTheme" />
+58-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:33:15-52
+59            <!--
+60                 Displays an Android View that continues showing the launch screen
+61                 Drawable until Flutter paints its first frame, then this splash
+62                 screen fades out. A splash screen is useful to avoid any visual
+63                 gap between the end of Android's launch screen and the painting of
+64                 Flutter's first frame.
+65            -->
+66            <meta-data
+66-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:40:13-43:17
+67                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+67-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:41:15-79
+68                android:resource="@drawable/launch_background" />
+68-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:42:15-61
+69
+70            <intent-filter>
+70-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:44:13-47:29
+71                <action android:name="android.intent.action.MAIN" />
+71-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:45:17-68
+71-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:45:25-66
+72
+73                <category android:name="android.intent.category.LAUNCHER" />
+73-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:46:17-76
+73-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:46:27-74
+74            </intent-filter>
+75        </activity>
+76        <!--
+77             Don't delete the meta-data below.
+78             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+79        -->
+80        <meta-data
+80-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:51:9-53:33
+81            android:name="flutterEmbedding"
+81-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:52:13-44
+82            android:value="2" />
+82-->/Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:53:13-30
+83
+84        <receiver
+84-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:29:9-33:20
+85            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+85-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:30:13-85
+86            android:enabled="true"
+86-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:31:13-35
+87            android:exported="false" >
+87-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:32:13-37
+88        </receiver>
+89        <receiver
+89-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:34:9-42:20
+90            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+90-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:35:13-100
+91            android:enabled="true"
+91-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:36:13-35
+92            android:exported="true"
+92-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:37:13-36
+93            android:permission="android.permission.INSTALL_PACKAGES" >
+93-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:38:13-69
+94            <intent-filter>
+94-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:39:13-41:29
+95                <action android:name="com.android.vending.INSTALL_REFERRER" />
+95-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:40:17-79
+95-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:40:25-76
+96            </intent-filter>
+97        </receiver>
+98
+99        <service
+99-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:44:9-47:40
+100            android:name="com.google.android.gms.measurement.AppMeasurementService"
+100-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:45:13-84
+101            android:enabled="true"
+101-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:46:13-35
+102            android:exported="false" />
+102-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:47:13-37
+103        <service
+103-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:48:9-52:72
+104            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+104-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:49:13-87
+105            android:enabled="true"
+105-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:50:13-35
+106            android:exported="false"
+106-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:51:13-37
+107            android:permission="android.permission.BIND_JOB_SERVICE" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+107-->[com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:52:13-69
+108        <activity
+108-->[com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:29:9-33:64
+109            android:name="com.google.android.gms.ads.AdActivity"
+109-->[com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:30:13-65
+110            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+110-->[com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:31:13-122
+111            android:exported="false"
+111-->[com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:32:13-37
+112            android:theme="@android:style/Theme.Translucent" />
+112-->[com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:33:13-61
+113
+114        <service android:name="com.google.firebase.components.ComponentDiscoveryService" >
+114-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:35:9-39:19
+114-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:35:18-89
+115            <meta-data
+115-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:36:13-38:85
+116                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+116-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:37:17-96
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:38:17-82
+118        </service>
+119
+120        <receiver
+120-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:41:9-50:20
+121            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+121-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:42:13-78
+122            android:exported="true"
+122-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:43:13-36
+123            android:permission="com.google.android.c2dm.permission.SEND" >
+123-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:44:13-73
+124            <intent-filter>
+124-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:45:13-49:29
+125                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+125-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:46:17-81
+125-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:46:25-78
+126
+127                <category android:name="com.example.minnav2" />
+127-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:48:17-61
+127-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:48:27-58
+128            </intent-filter>
+129        </receiver>
+130        <!--
+131             FirebaseInstanceIdService performs security checks at runtime,
+132             no need for explicit permissions despite exported="true"
+133        -->
+134        <service
+134-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:56:9-62:19
+135            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+135-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:57:13-77
+136            android:exported="true" >
+136-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:58:13-36
+137            <intent-filter android:priority="-500" >
+137-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:59:13-61:29
+137-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:59:28-51
+138                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+138-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:60:17-80
+138-->[com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:60:25-77
+139            </intent-filter>
+140        </service>
+141
+142        <provider
+142-->[com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:8:9-12:39
+143            android:name="com.google.firebase.provider.FirebaseInitProvider"
+143-->[com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:9:13-77
+144            android:authorities="com.example.minnav2.firebaseinitprovider"
+144-->[com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:10:13-72
+145            android:exported="false"
+145-->[com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:11:13-37
+146            android:initOrder="100" />
+146-->[com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:12:13-36
+147
+148        <activity
+148-->[com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:23:9-26:75
+149            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+149-->[com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:24:13-79
+150            android:exported="false"
+150-->[com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:25:13-37
+151            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+151-->[com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:26:13-72
+152
+153        <meta-data
+153-->[com.google.android.gms:play-services-basement:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dc7bd837b8b1cfc81867179163111b2f/jetified-play-services-basement-15.0.1/AndroidManifest.xml:23:9-25:69
+154            android:name="com.google.android.gms.version"
+154-->[com.google.android.gms:play-services-basement:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dc7bd837b8b1cfc81867179163111b2f/jetified-play-services-basement-15.0.1/AndroidManifest.xml:24:13-58
+155            android:value="@integer/google_play_services_version" />
+155-->[com.google.android.gms:play-services-basement:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dc7bd837b8b1cfc81867179163111b2f/jetified-play-services-basement-15.0.1/AndroidManifest.xml:25:13-66
+156    </application>
+157
+158</manifest>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/trandat/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/res/merged/release/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/trandat/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/res/merged/release/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/trandat/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/trandat/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/trandat/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/res/merged/release/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/res/merged/release/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    }
+]

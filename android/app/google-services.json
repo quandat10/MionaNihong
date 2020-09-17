@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606455072764",
+    "firebase_url": "https://minna-official.firebaseio.com",
+    "project_id": "minna-official",
+    "storage_bucket": "minna-official.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606455072764:android:480170f13062fc35779479",
+        "android_client_info": {
+          "package_name": "com.example.minnav2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606455072764-t0ejgh87fkujojc0bh1p2bmo7fansv7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_FEniy2zNTEjPPuv3LSHfQN9XKEiK6Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606455072764-t0ejgh87fkujojc0bh1p2bmo7fansv7f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606455072764-dr7i9lr9t1ahqloiapc9tvgfhgstc2i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.minnav2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+const SERVER_TRANSLATE_NAME = "http://bkitsoftware.com/a.php?sl=vi&tl=ja&text=b%E1%BA%A1n+kho%E1%BA%BB+kh%C3%B4ng";

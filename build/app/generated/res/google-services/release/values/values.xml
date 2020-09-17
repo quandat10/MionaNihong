@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">606455072764-t0ejgh87fkujojc0bh1p2bmo7fansv7f.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://minna-official.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">606455072764</string>
+    <string name="google_api_key" translatable="false">AIzaSyC_FEniy2zNTEjPPuv3LSHfQN9XKEiK6Rc</string>
+    <string name="google_app_id" translatable="false">1:606455072764:android:480170f13062fc35779479</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC_FEniy2zNTEjPPuv3LSHfQN9XKEiK6Rc</string>
+    <string name="google_storage_bucket" translatable="false">minna-official.appspot.com</string>
+    <string name="project_id" translatable="false">minna-official</string>
+</resources>

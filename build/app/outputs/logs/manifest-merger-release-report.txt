@@ -1,0 +1,477 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:1:1-56:12
+INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:1:1-56:12
+INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:1:1-56:12
+INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:1:1-56:12
+MERGED from [:speech_to_text] /Users/trandat/data/code/flutterApp/minnav2/build/speech_to_text/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_admob] /Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_tts] /Users/trandat/data/code/flutterApp/minnav2/build/flutter_tts/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:audioplayers] /Users/trandat/data/code/flutterApp/minnav2/build/audioplayers/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] /Users/trandat/data/code/flutterApp/minnav2/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /Users/trandat/data/code/flutterApp/minnav2/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/97d2555a0ac393e6d1616c04f8c1aff5/firebase-ads-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/632e0de1a45ee9d29168d5032ed87715/jetified-play-services-ads-15.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/1b1bf5f8bba9b00f82fd4d0f286e8c3c/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/bcaa4f3eaedb53eb488817c893657a7f/play-services-gass-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/1d9964208e1b0faa2408b4b1ed0c641c/jetified-play-services-stats-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fb0bef5bdfc526ef174ec8818a1c3869/jetified-firebase-iid-interop-15.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/b237cc1fe7acc4b072ee5cb113e934dc/jetified-play-services-tasks-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dc7bd837b8b1cfc81867179163111b2f/jetified-play-services-basement-15.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fb1e5d35f9738a7c29a273d7be7f3e2c/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0d479d426be2ba1f4bdfee2f9a7aa519/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/5a1de8d3594afca67ad230d5d25a73b9/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/33e5ae0b4711709cb339233c513b94a7/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/536c4d230adcf87aec8f00c8955f8127/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/d255798b3263f4a3c8e304b7de4de531/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3008a15222323dd0393f3314747b2d3a/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/477e81a6102496b4df20cd2557cfcd3a/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/5a5d53679d914b768463e606a8e8f920/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/2ecca17b0eb70fcbc1e9d8148641257d/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/00db72760b3662c4528b816b17c43995/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/13eb812daeca5edd5883d98298d1a9d8/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/d51e0220d8e43d4bfbf3a1c4895b8a97/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/efb8856e721890c9d41b773a4346914d/play-services-ads-base-15.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fe9837a439c99d85ff47878b15ae7a76/play-services-measurement-base-15.0.2/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:1:1-56:12
+INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:1:1-56:12
+INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:1:1-56:12
+	package
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:1:1-56:12
+		INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:1:1-56:12
+		INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:9:5-55:19
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/97d2555a0ac393e6d1616c04f8c1aff5/firebase-ads-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/97d2555a0ac393e6d1616c04f8c1aff5/firebase-ads-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/1b1bf5f8bba9b00f82fd4d0f286e8c3c/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/1b1bf5f8bba9b00f82fd4d0f286e8c3c/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/bcaa4f3eaedb53eb488817c893657a7f/play-services-gass-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/bcaa4f3eaedb53eb488817c893657a7f/play-services-gass-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/1d9964208e1b0faa2408b4b1ed0c641c/jetified-play-services-stats-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/1d9964208e1b0faa2408b4b1ed0c641c/jetified-play-services-stats-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fb0bef5bdfc526ef174ec8818a1c3869/jetified-firebase-iid-interop-15.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fb0bef5bdfc526ef174ec8818a1c3869/jetified-firebase-iid-interop-15.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/b237cc1fe7acc4b072ee5cb113e934dc/jetified-play-services-tasks-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/b237cc1fe7acc4b072ee5cb113e934dc/jetified-play-services-tasks-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dc7bd837b8b1cfc81867179163111b2f/jetified-play-services-basement-15.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dc7bd837b8b1cfc81867179163111b2f/jetified-play-services-basement-15.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/efb8856e721890c9d41b773a4346914d/play-services-ads-base-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/efb8856e721890c9d41b773a4346914d/play-services-ads-base-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fe9837a439c99d85ff47878b15ae7a76/play-services-measurement-base-15.0.2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fe9837a439c99d85ff47878b15ae7a76/play-services-measurement-base-15.0.2/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:11:9-32
+	android:icon
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:13:9-43
+	android:usesCleartextTraffic
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:12:9-44
+	android:name
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:10:9-57
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:14:9-16:69
+	android:value
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:16:13-67
+	android:name
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:15:13-69
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:17:9-19:35
+	android:value
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:19:13-33
+	android:name
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:18:13-69
+activity#com.example.minnav2.MainActivity
+ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:20:9-48:20
+	android:launchMode
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:22:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:25:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:26:13-55
+	android:configChanges
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:24:13-163
+	android:theme
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:21:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:31:13-34:17
+	android:resource
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:33:15-52
+	android:name
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:32:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:40:13-43:17
+	android:resource
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:42:15-61
+	android:name
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:41:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:45:17-68
+	android:name
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:46:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:51:9-53:33
+	android:value
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:53:13-30
+	android:name
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml:52:13-44
+uses-sdk
+INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+MERGED from [:speech_to_text] /Users/trandat/data/code/flutterApp/minnav2/build/speech_to_text/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:speech_to_text] /Users/trandat/data/code/flutterApp/minnav2/build/speech_to_text/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_admob] /Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_admob] /Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_tts] /Users/trandat/data/code/flutterApp/minnav2/build/flutter_tts/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_tts] /Users/trandat/data/code/flutterApp/minnav2/build/flutter_tts/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:audioplayers] /Users/trandat/data/code/flutterApp/minnav2/build/audioplayers/intermediates/library_manifest/release/AndroidManifest.xml:7:5-44
+MERGED from [:audioplayers] /Users/trandat/data/code/flutterApp/minnav2/build/audioplayers/intermediates/library_manifest/release/AndroidManifest.xml:7:5-44
+MERGED from [:sqflite] /Users/trandat/data/code/flutterApp/minnav2/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/trandat/data/code/flutterApp/minnav2/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/trandat/data/code/flutterApp/minnav2/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/trandat/data/code/flutterApp/minnav2/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/97d2555a0ac393e6d1616c04f8c1aff5/firebase-ads-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/97d2555a0ac393e6d1616c04f8c1aff5/firebase-ads-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/632e0de1a45ee9d29168d5032ed87715/jetified-play-services-ads-15.0.1/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/632e0de1a45ee9d29168d5032ed87715/jetified-play-services-ads-15.0.1/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/1b1bf5f8bba9b00f82fd4d0f286e8c3c/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/1b1bf5f8bba9b00f82fd4d0f286e8c3c/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/bcaa4f3eaedb53eb488817c893657a7f/play-services-gass-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/bcaa4f3eaedb53eb488817c893657a7f/play-services-gass-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/1d9964208e1b0faa2408b4b1ed0c641c/jetified-play-services-stats-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/1d9964208e1b0faa2408b4b1ed0c641c/jetified-play-services-stats-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fb0bef5bdfc526ef174ec8818a1c3869/jetified-firebase-iid-interop-15.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fb0bef5bdfc526ef174ec8818a1c3869/jetified-firebase-iid-interop-15.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/b237cc1fe7acc4b072ee5cb113e934dc/jetified-play-services-tasks-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/b237cc1fe7acc4b072ee5cb113e934dc/jetified-play-services-tasks-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dc7bd837b8b1cfc81867179163111b2f/jetified-play-services-basement-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dc7bd837b8b1cfc81867179163111b2f/jetified-play-services-basement-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fb1e5d35f9738a7c29a273d7be7f3e2c/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fb1e5d35f9738a7c29a273d7be7f3e2c/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0d479d426be2ba1f4bdfee2f9a7aa519/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0d479d426be2ba1f4bdfee2f9a7aa519/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/5a1de8d3594afca67ad230d5d25a73b9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/5a1de8d3594afca67ad230d5d25a73b9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/33e5ae0b4711709cb339233c513b94a7/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/33e5ae0b4711709cb339233c513b94a7/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/536c4d230adcf87aec8f00c8955f8127/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/536c4d230adcf87aec8f00c8955f8127/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/d255798b3263f4a3c8e304b7de4de531/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/d255798b3263f4a3c8e304b7de4de531/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3008a15222323dd0393f3314747b2d3a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3008a15222323dd0393f3314747b2d3a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/477e81a6102496b4df20cd2557cfcd3a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/477e81a6102496b4df20cd2557cfcd3a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/5a5d53679d914b768463e606a8e8f920/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/5a5d53679d914b768463e606a8e8f920/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/2ecca17b0eb70fcbc1e9d8148641257d/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/2ecca17b0eb70fcbc1e9d8148641257d/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3aaf6e5219b7f981ec263df919098c6f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/00db72760b3662c4528b816b17c43995/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/00db72760b3662c4528b816b17c43995/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/13eb812daeca5edd5883d98298d1a9d8/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/13eb812daeca5edd5883d98298d1a9d8/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/d51e0220d8e43d4bfbf3a1c4895b8a97/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/d51e0220d8e43d4bfbf3a1c4895b8a97/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/efb8856e721890c9d41b773a4346914d/play-services-ads-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/efb8856e721890c9d41b773a4346914d/play-services-ads-base-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fe9837a439c99d85ff47878b15ae7a76/play-services-measurement-base-15.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/fe9837a439c99d85ff47878b15ae7a76/play-services-measurement-base-15.0.2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/632e0de1a45ee9d29168d5032ed87715/jetified-play-services-ads-15.0.1/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trandat/data/code/flutterApp/minnav2/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:firebase_admob] /Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [:firebase_admob] /Users/trandat/data/code/flutterApp/minnav2/build/firebase_admob/intermediates/library_manifest/release/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/9d993bcb28fea66536fdc189738d8ac7/jetified-firebase-analytics-impl-15.0.2/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/trandat/.gradle/caches/transforms-2/files-2.1/362804a854911d4c69fb7af252ef8381/jetified-firebase-analytics-15.0.2/AndroidManifest.xml:49:13-87
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/4669a5cedaab5e46092bea548d150f43/jetified-play-services-ads-lite-15.0.1/AndroidManifest.xml:30:13-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:29:9-63
+permission#com.example.minnav2.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:32:22-76
+uses-permission#com.example.minnav2.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:32:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:35:18-89
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.minnav2
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:48:27-58
+category#com.example.minnav2
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/trandat/.gradle/caches/transforms-2/files-2.1/3bc7e3ed86649abc122f078576809b90/jetified-firebase-iid-15.1.0/AndroidManifest.xml:60:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/0063abf8c11d3c3ebcaa92a20dc3c559/jetified-firebase-common-15.0.1/AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/54d793e177213d502028c1dc2f668e5b/jetified-play-services-base-15.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dc7bd837b8b1cfc81867179163111b2f/jetified-play-services-basement-15.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dc7bd837b8b1cfc81867179163111b2f/jetified-play-services-basement-15.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/trandat/.gradle/caches/transforms-2/files-2.1/dc7bd837b8b1cfc81867179163111b2f/jetified-play-services-basement-15.0.1/AndroidManifest.xml:24:13-58
